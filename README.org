@@ -4,6 +4,6 @@ Toolkit to render stuff in plaintext
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shinmera/text-draw.git |
-| commit  | d6fd19d                                       |
+| commit  | e4f665b                                       |
 | systems | text-draw                                     |
 |---------+-----------------------------------------------|
